@@ -16,7 +16,9 @@ needs_cleanup: true
 
 *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* is a rhythm game for the *Nintendo DS*. The gameplay consists of only three elements: tapping circles on the touchscreen, dragging a ball across a fixed path and rotating a spinner very fast. All these elements are timed to (covers of) popular Japanese songs. It looks like this on the *DS*:
 
-![Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS](/wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS")
+![Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS](/wiki/shared/Ouendan.jpg?wowow2 "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS")
+
+Hi2.
 
 The gameplay circles can be seen on the bottom screen, and the story on the top screen. Each stage is basically a self-contained story about a person in trouble. That is where the *Ouendan* (Cheer squad) comes in. Through the magical power of male cheerleading, the player have to help the people in trouble.
 
